@@ -6,22 +6,26 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Computing + Mathematical Sciences</p>
+    <p>California Institute of Technology</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Thanks for stopping by! I am Chu Xin (Cloris) Cheng, a junior at California Institute of Technology majoring in CS. I am fortunate to have worked with Prof. [Yisong Yue](https://yisongyue.com/[) and Prof. [Adam Wierman](https://adamwierman.com/) from Caltech, and Prof. [Yanan Sui](https://yanansui.com/) from Tsinghua University. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My past research centers around dealing with uncertainties in optimization and decision-making processes. From designing efficient sampling algorithms for high dimensional problems using Bayesian optimization and MCMC to leveraging human feedback using bandit algorithms for exoskeleton gaits, I am intrigued by problems that interleaves theoretical challenges and practical application. Recently, I have also started to explore applying Bayesian optimization to experimental design problems, and I am excited to see how general machine learning tools can be used to accelerate scientific discovery.
+
+At Caltech, I am surrouned by so many brilliant people, and I am forever grateful to have had the opportunity to learn and collaborate with [Raul M. Astudillo](https://raulastudillo.netlify.app/), [Chris Yeh](https://chrisyeh96.github.io/), [Yiheng Lin](https://yihenglin97.github.io/) and many more amazing people on various projects.
+
+
+
+
 

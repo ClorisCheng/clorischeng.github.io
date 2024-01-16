@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am a TA for [Data Mining and Machine Learning](https://sites.google.com/view/cs155-machine-learning-2024/home) (CS 155) taught by Prof. Yisong Yue. Come visit me in office hours! :smile:

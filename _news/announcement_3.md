@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-07
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Visited Dr. Thomas Desautels at [Lawrence Livermore National Lab](https://www.llnl.gov/)! It's quite amazing how many different subroutines are involved in a protein design pipeline!
