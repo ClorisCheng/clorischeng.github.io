@@ -25,7 +25,7 @@ My past research centers around dealing with uncertainties in optimization and d
 
 At Caltech, I am surrouned by so many brilliant people, and I am forever grateful to have had the opportunity to learn and collaborate with [Raul M. Astudillo](https://raulastudillo.netlify.app/), [Chris Yeh](https://chrisyeh96.github.io/), [Yiheng Lin](https://yihenglin97.github.io/) and many more amazing people on various projects.
 
-
+You are welcome to take a look at my [CV](/assets/pdf/CV_cheng_2024.pdf).
 
 
 
