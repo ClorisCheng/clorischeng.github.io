@@ -1,19 +1,18 @@
 ---
 ---
 
-
-
-
 @InProceedings{pmlr-v242-yi24a,
-  title = 	 {Improving sample efficiency of high dimensional {B}ayesian optimization with {MCMC}},
-  author =       {Yi, Zeji and Wei, Yunyue and Cheng, Chu Xin and He, Kaibo and Sui, Yanan},
+  title = 	 {Improving sample efficiency of high dimensional Bayesian optimization with MCMC},
+  author =       {Yi, Zeji* and Wei, Yunyue* and Cheng, Chu Xin* and He, Kaibo and Sui, Yanan},
   booktitle = 	 {Proceedings of the 6th Annual Learning for Dynamics &amp; Control Conference},
   year = 	 {2024},
   series = 	 {Proceedings of Machine Learning Research},
   publisher =    {PMLR},
+  preview={both_iteration_150.png},
   pdf = 	 {https://proceedings.mlr.press/v242/yi24a/yi24a.pdf},
   url = 	 {https://proceedings.mlr.press/v242/yi24a.html},
-  abstract = 	 {Sequential optimization methods are often confronted with the curse of dimensionality in high-dimensional spaces. Current approaches under the Gaussian process framework are still burdened by the computational complexity of tracking Gaussian process posteriors and need to partition the optimization problem into small regions to ensure exploration or assume an underlying low-dimensional structure. With the idea of transiting the candidate points towards more promising positions, we propose a new method based on Markov Chain Monte Carlo to efficiently sample from an approximated posterior. We provide theoretical guarantees of its convergence in the Gaussian process Thompson sampling setting. We also show experimentally that both the Metropolis-Hastings and the Langevin Dynamics version of our algorithm outperform state-of-the-art methods in high-dimensional sequential optimization and reinforcement learning benchmarks.}
+  abstract = 	 {Sequential optimization methods are often confronted with the curse of dimensionality in high-dimensional spaces. Current approaches under the Gaussian process framework are still burdened by the computational complexity of tracking Gaussian process posteriors and need to partition the optimization problem into small regions to ensure exploration or assume an underlying low-dimensional structure. With the idea of transiting the candidate points towards more promising positions, we propose a new method based on Markov Chain Monte Carlo to efficiently sample from an approximated posterior. We provide theoretical guarantees of its convergence in the Gaussian process Thompson sampling setting. We also show experimentally that both the Metropolis-Hastings and the Langevin Dynamics version of our algorithm outperform state-of-the-art methods in high-dimensional sequential optimization and reinforcement learning benchmarks.},
+  selected={true},
 }
 
 
@@ -23,7 +22,10 @@
   author={Raul Astudillo and Kejun Li and Maegan Tucker and Chu Xin Cheng and Aaron Ames and Yisong Yue},
   booktitle={ICML 2023 Workshop The Many Facets of Preference-Based Learning},
   year={2023},
-  selected={true},
   preview={motivation.jpg},
-  arxiv={http://arxiv.org/abs/2406.14699},
+  arxiv={2406.14699},
+  abstract = 	 {
+  Preferential Bayesian optimization (PBO) is a framework for optimizing a decision-maker's latent preferences over available design choices. While preferences often involve multiple conflicting objectives, existing work in PBO assumes that preferences can be encoded by a single objective function. For example, in robotic assistive devices, technicians often attempt to maximize user comfort while simultaneously minimizing mechanical energy consumption for longer battery life. Similarly, in autonomous driving policy design, decision-makers wish to understand the trade-offs between multiple safety and performance attributes before committing to a policy. To address this gap, we propose the first framework for PBO with multiple objectives. Within this framework, we present dueling scalarized Thompson sampling (DSTS), a multi-objective generalization of the popular dueling Thompson algorithm, which may be of interest beyond the PBO setting. We evaluate DSTS across four synthetic test functions and two simulated exoskeleton personalization and driving policy design tasks, showing that it outperforms several benchmarks. Finally, we prove that DSTS is asymptotically consistent. As a direct consequence, this result provides, to our knowledge, the first convergence guarantee for dueling Thompson sampling in the PBO setting.
+  },
+  selected={true},
 }
