@@ -1,17 +1,35 @@
 ---
 ---
 
-@misc{yi2024improving,
-  title={Improving sample efficiency of high dimensional Bayesian optimization with MCMC}, 
-  author={Zeji Yi* and Yunyue Wei* and Chu Xin Cheng* and Kaibo He and Yanan Sui},
-  year={2024},
-  eprint={2401.02650},
-  archivePrefix={arXiv},
-  primaryClass={cs.LG},
-  selected={true},
-  preview={both_iteration_150.png},
-  pdf={MCMCBO_L4DC.pdf},
+% @misc{yi2024improving,
+%   title={Improving sample efficiency of high dimensional Bayesian optimization with MCMC}, 
+%   author={Zeji Yi* and Yunyue Wei* and Chu Xin Cheng* and Kaibo He and Yanan Sui},
+%   year={2024},
+%   eprint={2401.02650},
+%   archivePrefix={arXiv},
+%   primaryClass={cs.LG},
+%   selected={true},
+%   preview={both_iteration_150.png},
+%   arxiv={https://arxiv.org/abs/2401.02650},
+% }
+
+
+@InProceedings{pmlr-v242-yi24a,
+  title = 	 {Improving sample efficiency of high dimensional {B}ayesian optimization with {MCMC}},
+  author =       {Yi, Zeji and Wei, Yunyue and Cheng, Chu Xin and He, Kaibo and Sui, Yanan},
+  booktitle = 	 {Proceedings of the 6th Annual Learning for Dynamics &amp; Control Conference},
+  pages = 	 {813--824},
+  year = 	 {2024},
+  editor = 	 {Abate, Alessandro and Cannon, Mark and Margellos, Kostas and Papachristodoulou, Antonis},
+  volume = 	 {242},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {15--17 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v242/yi24a/yi24a.pdf},
+  url = 	 {https://proceedings.mlr.press/v242/yi24a.html},
+  abstract = 	 {Sequential optimization methods are often confronted with the curse of dimensionality in high-dimensional spaces. Current approaches under the Gaussian process framework are still burdened by the computational complexity of tracking Gaussian process posteriors and need to partition the optimization problem into small regions to ensure exploration or assume an underlying low-dimensional structure. With the idea of transiting the candidate points towards more promising positions, we propose a new method based on Markov Chain Monte Carlo to efficiently sample from an approximated posterior. We provide theoretical guarantees of its convergence in the Gaussian process Thompson sampling setting. We also show experimentally that both the Metropolis-Hastings and the Langevin Dynamics version of our algorithm outperform state-of-the-art methods in high-dimensional sequential optimization and reinforcement learning benchmarks.}
 }
+
 
 @inproceedings{
   astudillo2023preferential,
@@ -19,8 +37,7 @@
   author={Raul Astudillo and Kejun Li and Maegan Tucker and Chu Xin Cheng and Aaron Ames and Yisong Yue},
   booktitle={ICML 2023 Workshop The Many Facets of Preference-Based Learning},
   year={2023},
-  url={https://openreview.net/forum?id=Y7saIzVsgR},
   selected={true},
   preview={motivation.jpg},
-  pdf={preferential_multi_attribute.pdf},
+  arxiv={http://arxiv.org/abs/2406.14699},
 }
