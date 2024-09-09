@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-27
+date: 2024-07-15
 inline: true
 related_posts: false
 ---
 
-TAing for Introduction to Probability Models (ACM 116) taught by Prof. [Kostia Zuev](https://www.its.caltech.edu/~zuev/). Probably the OHs will be useful for probability questions!
+Arrived at Princeton University and started working with Prof. Ellen Zhong on elucidating chemical structure from Nuclear Magnestic Resonance (NMR) spectrum. I am also excited to learn more about structural biology and various problems relating to cryo-electron microscopy in the [Zhong Lab](https://ezlab.princeton.edu/)!

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-03
+date: 2023-07-21
 inline: true
 related_posts: false
 ---
 
-I am a TA for [Data Mining and Machine Learning](https://sites.google.com/view/cs155-machine-learning-2024/home) (CS 155) taught by Prof. Yisong Yue. Come visit me in office hours! :smile:
+Visited Dr. Thomas Desautels and his team at [Lawrence Livermore National Lab](https://www.llnl.gov/)! It's quite amazing how many different subroutines are involved in a protein design pipeline!
