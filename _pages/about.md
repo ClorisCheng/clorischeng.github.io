@@ -24,7 +24,7 @@ Thanks for stopping by! I am Chu Xin (Cloris) Cheng, a senior at California Inst
 My past research centers around **AI for experimental design**, utilizing probablistic inference to guide decision-making processes. Recently, I am exploring applications of **machine learning in chemistry**, specifically to elucidate natural product structures and accelerate small molecule discovery. In the future, I would like to
 - **Develop rigorous algorithms**, as mathematical foundations allow methods to withstand the test of time. 
 - Work on intellectually stimulating problems that can tackle **new challenges** and help define **new frameworks**.
-- Contribut to ways that allow smooth integration of machine learning to real application domains, especially for **accelerating scientific discovery**.
+- Contribute to ways that allow smooth integration of machine learning to real application domains, especially for **accelerating scientific discovery**.
 
 
 <!-- I designed algorithms that could handle *multiphase, multi-criteria decision making in high dimensions* and developped frameworks to *generalize traditional Bayesian approaches* to more generalized, complex problem settings. Recently, I am exploring applications of machine learning to *elucidate natural product structures*, and it is both challenging and rewarding to test the limits of current methods in a new domain. -->
