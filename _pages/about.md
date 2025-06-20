@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Thanks for stopping by! I am Chu Xin (Cloris) Cheng, a senior at California Institute of Technology majoring in CS. I am fortunate to have worked with Prof. [Yisong Yue](https://yisongyue.com/[) and Prof. [Adam Wierman](https://adamwierman.com/) from Caltech, Prof. [Ellen Zhong](https://www.cs.princeton.edu/~zhonge/) from Princeton, and Prof. [Yanan Sui](https://yanansui.com/) from Tsinghua University. I will be working as a Machine Learning Intern at [Gridmatic](https://www.gridmatic.com/) during the spring.
+Thanks for stopping by! I am Chu Xin (Cloris) Cheng, and I've recently graduated from Caltech with a B.S. in Computer Science. I am fortunate to have worked with Prof. [Yisong Yue](https://yisongyue.com/[) and Prof. [Adam Wierman](https://adamwierman.com/) from Caltech, Prof. [Ellen Zhong](https://www.cs.princeton.edu/~zhonge/) from Princeton, and Prof. [Yanan Sui](https://yanansui.com/) from Tsinghua University. I am currently working as a Machine Learning Intern at [Gridmatic](https://www.gridmatic.com/). I am funded by a [Fannie and John Hertz Foundation Fellowship](https://www.hertzfoundation.org/).
 
 ---
 
@@ -31,7 +31,7 @@ Recently, I'm exploring applications of generative modeling in discrete data gen
 
 At Caltech, I've learned so much from the brilliant people around me, and I am forever grateful to have had the opportunity to learn and collaborate with [Raul M. Astudillo](https://raulastudillo.netlify.app/), [Chris Yeh](https://chrisyeh96.github.io/), [Yiheng Lin](https://yihenglin97.github.io/) and many more amazing people on various projects.
 
-You are welcomed to take a look at my **CV** [here](/assets/pdf/CV_cheng_2024.pdf).
+You are welcomed to take a look at my **CV** [here](/assets/pdf/CV_cheng_2025.pdf).
 
 <!-- 
 My past research centers around **AI for experimental design**, utilizing probablistic inference to guide decision-making processes. Recently, I am exploring applications of **machine learning in chemistry**, specifically to elucidate natural product structures and accelerate small molecule discovery. In the future, I would like to
