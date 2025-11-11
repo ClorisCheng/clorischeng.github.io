@@ -23,9 +23,11 @@ Thanks for stopping by! I am Chu Xin (Cloris) Cheng, and I've recently graduated
 
 My past research centers around **AI for accelerating scientific discovery**, specifically focusing on two subfields: **AI for experimental design** and **machine learning in chemistry**. I'd like to
 
-- **Develop rigorous algorithms**, as mathematical foundations allow methods to withstand the test of time. 
-- Work on intellectually stimulating problems that can tackle **new challenges** and help define **new frameworks**.
-- Contribute to ways that allow smooth integration of machine learning to **real application domains**.
+- Design **principled models** that can generalize across scientific domains and modalities.
+
+- Build **efficient and scalable systems** for training, evaluating, and deploying such models.
+
+- Create **benchmark environments and rigorous frameworks** that allow for easier iteration and more holistic evaluation of methodlogies. 
 
 Recently, I'm exploring applications of generative modeling in discrete data generation and time series forecasting. 
 
